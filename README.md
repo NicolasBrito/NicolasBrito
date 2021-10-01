@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicolasBrito
-- 👀 I’m interested in React JS
-- 🌱 I’m currently learning about javascript
-- 💞️ I’m looking to collaborate on front and backend development
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning about Python
+- 💞️ I’m looking to collaborate on webscraping
 - 📫 How to reach me: nicolasbrito.nmb12@gmail.com
 
 <!---
