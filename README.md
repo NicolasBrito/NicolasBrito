@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @NicolasBrito
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning about Python
-- 💞️ I’m looking to collaborate on webscraping
+## 👋 Hi, I’m @NicolasBrito, Computer Engineer passionate by Tech :)
+
+- 👀 I’m interested in Software Engineering / IA / Machine Learning
+- 🌱 I’m currently learning about Java and Python
+- 💞️ I’m looking to collaborate on Full stack development
 - 📫 How to reach me: nicolasbrito.nmb12@gmail.com
 
 <!---
